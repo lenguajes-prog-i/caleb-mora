@@ -1,17 +1,10 @@
 ## hacer calculadora con funciones
 def sumar(a, b):
     return a + b
-    def sumar2(a, b):
-        return a + b   + 1
-    return sumar
-def sumar3(a, b):
-    return a + b
 def restar(a, b):
     return a + b
 def multiplicar(a, b): return a * b
-def multiplicar2(a, b): return a * b
 def dividir(a, b): return a / b
-def dividir2(a, b): return a / b
 def main():
     print("Calculadora")
     print("1. Sumar")
